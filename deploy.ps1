@@ -1,7 +1,7 @@
-﻿$tizen = "c:\tizen-studio\tools\ide\bin\tizen.bat"
+﻿$tizen = "\Users\jiwoo\tizen-studio\tools\ide\bin\tizen"
 $widget = "ReactTizenWatch"
 $package = "aLjg04YpZ8"
-$folder = "C:\src\react-tizen-watch\"
+$folder = "\Users\jiwoo\Desktop\jiwoo.workspace\react-tizen-watch\"
 $buildFolder = "$($folder)build\"
 $buildResultFolder = "$($buildFolder).buildResult"
 
